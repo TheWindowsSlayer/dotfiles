@@ -8,6 +8,6 @@
 - shell: `powershell core`
 - terminal emulator: `xterm`
 - text / code editor: `nano`
-- Video Player/Music Player/Image Viewer: `mpv`
+- Video Player/Music Player/Image Viewer: `mpv/ncmpp/feh`
 - Web Browser: `falkon and tor browser`
 - Window Manager: `herbstluftwm`
