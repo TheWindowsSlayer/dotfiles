@@ -6,10 +6,10 @@ my desktop is "generic", not is "exotic" because i don't have time to switch you
 
 ## my notebook!
 - operating system: `arch linux`
-- application launcher: `rofi (c64 theme)`
+- application launcher: `dmenu`
 - shell: `powershell core`
 - terminal emulator: `xterm`
 - text / code editor: `nano`
 - Video Player/Music Player/Image Viewer: `mpv/ncmpcpp/feh`
-- Web Browser: `falkon and tor browser`
+- Web Browser: `falkon`
 - Window Manager: `herbstluftwm`
