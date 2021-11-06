@@ -2,12 +2,12 @@
 
 ![dwm](dwm.png "dwm")
 
-## Setup
-- Operating System: `Arch Linux`
-- Application Launcher: `dmenu`
-- Shell: `powershell core (pwsh)`
-- Terminal Emulator: `xterm`
-- Text Editor: `nano (with colors ^-^)`
+## my notebook!
+- operating system: `arch linux`
+- application launcher: `dmenu`
+- shell: `powershell core`
+- terminal emulator: `xterm`
+- text / code editor: `nano`
 - Video Player/Music Player/Image Viewer: `mpv`
-- Web Browser: `firefox`
-- Window Manager: `rmw (this is my personal window manager)`
+- Web Browser: `firefox and tor browser`
+- Window Manager: `rmw`
