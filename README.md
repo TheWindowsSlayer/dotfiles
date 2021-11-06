@@ -1,6 +1,6 @@
 # dotfiles by rom, the windows slayer
 
-my desktop is "generic", not is exotic because i don't have time to switch your components...
+my desktop is "generic", not is "exotic" because i don't have time to switch your components...
 
 ![thatscreenshot](thatscreenshot.png "thatscreenshot")
 
