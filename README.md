@@ -10,6 +10,6 @@ my desktop is "generic", not is "exotic" because i don't have time to switch you
 - shell: `powershell core`
 - terminal emulator: `xterm`
 - text / code editor: `nano`
-- Video Player/Music Player/Image Viewer: `mpv/ncmpp/feh`
+- Video Player/Music Player/Image Viewer: `mpv/ncmpcpp/feh`
 - Web Browser: `falkon and tor browser`
 - Window Manager: `herbstluftwm`
