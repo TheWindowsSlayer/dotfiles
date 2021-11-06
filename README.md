@@ -1,13 +1,13 @@
 # dotfiles by rom, the windows slayer
 
-![dwm](dwm.png "dwm")
+![thatscreenshot](thatscreenshot.png "thatscreenshot")
 
 ## my notebook!
 - operating system: `arch linux`
-- application launcher: `dmenu`
+- application launcher: `rofi (c64 theme)`
 - shell: `powershell core`
 - terminal emulator: `xterm`
 - text / code editor: `nano`
 - Video Player/Music Player/Image Viewer: `mpv`
-- Web Browser: `firefox and tor browser`
-- Window Manager: `rmw`
+- Web Browser: `falkon and tor browser`
+- Window Manager: `herbstluftwm`
